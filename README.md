@@ -1,9 +1,7 @@
 1.Creating Virtual env:
-
 python -m venv .venv
 
 2. Activate env:
-   
  .venv\Scripts\activate
   
 3. pip installation :
